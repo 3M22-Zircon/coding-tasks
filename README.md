@@ -35,3 +35,11 @@ After navigating to the project directory, run the following command to start th
 ```bash
 python calculator.py
  
+
+### Initialize Git Repository and Push to GitHub
+
+Follow the steps to initialize the Git repository and push the project to GitHub:
+
+1. **Initialize a new git repository**:
+   ```bash
+   git init
