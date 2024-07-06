@@ -33,4 +33,8 @@ To run this project locally, follow these steps:
 ## Usage
 After navigating to the project directory, run the following command to start the calculator:
 ```bash
+
 python calculator.py
+
+## Credits
+Created by Mujahid Hosein
